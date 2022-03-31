@@ -1,0 +1,9 @@
+You can Find the data base here :
+https://www.kaggle.com/datasets/rootuser/worldnews-on-reddit?resource=download
+
+Link That Can help You :
+https://ichi.pro/fr/formation-de-word2vec-a-l-aide-de-gensim-22278944385252
+
+https://towardsdatascience.com/a-beginners-guide-to-word-embedding-with-gensim-word2vec-model-5970fa56cc92
+
+https://rare-technologies.com/word2vec-tutorial/
